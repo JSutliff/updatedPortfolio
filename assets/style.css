@@ -1,0 +1,45 @@
+
+
+body {
+  width: 960px;
+  margin: 4em;
+  }
+
+header {
+  background-color: #ffffff;
+  border-bottom: .1em solid #cccccc;
+}
+
+.navbar-brand {
+  width: 8em;
+  background-color: #4aaaa5;
+  margin-left: 8em;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  color: #ffffff;
+  padding-top: 1em;
+  padding-left: 1em;
+  height: 4em;
+}
+
+
+.container {
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+/* .name-box {
+  width: 8em;
+  background-color: #4aaaa5;
+  margin-left: 8em;
+  
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  color: #ffffff;
+  padding-left: 1em;
+  padding-top: 1em;
+   */
+}
+
+.box {
+  margin-left: 2em;
+  margin-right: 2em;
+}
